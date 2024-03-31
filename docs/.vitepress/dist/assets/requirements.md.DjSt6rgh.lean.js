@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a2 as s}from"./chunks/framework.CQ12TVIp.js";const h=JSON.parse('{"title":"必要用件","description":"","frontmatter":{},"headers":[],"relativePath":"requirements.md","filePath":"requirements.md"}'),o={name:"requirements.md"},c=s("",5),l=[c];function r(i,_,n,d,p,u){return a(),t("div",null,l)}const f=e(o,[["render",r]]);export{h as __pageData,f as default};
