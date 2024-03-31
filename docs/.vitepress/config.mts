@@ -5,6 +5,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Daily routine system",
   description: "日課表作成システム",
+  base: '/DailyRoutineSystemHelpSite/',
   markdown: {
     config: (md) => {
       md.use(footnote)
